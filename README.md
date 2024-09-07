@@ -88,6 +88,11 @@ To predict the insurance price for a new individual with the following details:
 - Region: southeast
 
 Update the `predict_new_price` function and run the script to get the predicted price.
+## Screenshot of output 
+
+
+![medicalinsurancepp](https://github.com/user-attachments/assets/cda2efe5-6493-4b3e-9733-5c442e925e59)
+
 
 ## License
 
